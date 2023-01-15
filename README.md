@@ -1,2 +1,1 @@
-# Khushi-
-Love
+#pylovewish
